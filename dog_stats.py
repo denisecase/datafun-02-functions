@@ -2,7 +2,7 @@
 Purpose: illustrate some built-in functions, conditions, and branching.
 
 Always start your file with a docstring.
-
+Hello there!
 Each file is a module in Python.
 The name of the module is the name of the file without the extension.
 
